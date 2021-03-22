@@ -1,0 +1,10 @@
+// * {
+//   border: solid 1px black;
+// }
+
+$input-border: 5px;
+
+input {
+  width: 30%;
+  border-radius: $input-border;
+}
